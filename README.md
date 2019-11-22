@@ -1,3 +1,5 @@
+python konan.py -U ip.txt -w list.txt -r -x 404,400 -o 200,302,301,500 -t 150 -T 15 -O voip.txt
+
 
  Konan - Advanced Web Application Dir Scanner (beta v.0.1.0)
  ---
